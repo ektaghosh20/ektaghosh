@@ -1,7 +1,14 @@
-# ektaghosh
 
+![github-header-image (1)](https://github.com/ektaghosh20/ektaghosh/assets/120678788/eaa567b3-3136-416f-833b-8a271ba4e87d)
+
+
+
+#ektaghosh
 <h1 align="center">Heyy!! 👋, I'm ekta here</h1>
 <h3 align="center">Learning to build the my dream tech future</h3>
+
+
+
 
 - 🔭 I’m currently working on **machine learning**
 
